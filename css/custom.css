@@ -1,0 +1,61 @@
+/*custom.css*/	
+
+
+body {
+	background-color: #C0C0C0;
+
+}
+
+h1 {
+	background-color: #000;
+	color: #FFF;
+	margin-top: -8px;
+	font-size: 250%;
+	padding:35px;
+	
+	
+}
+
+img {
+	float:right;
+	margin-right: 0px;
+	margin-top: -189px;
+	width:9.6%;
+	height:auto;
+
+
+}
+a:link {
+	color:black;
+}
+a:hover {
+	color:#FFFF00;
+}
+a:active {
+	color:#00FF00;
+}
+
+
+
+.MainName {
+	text-align: center;
+}
+
+.email {
+	text-align: center;
+}
+
+.Address {
+	list-style: none;
+	margin-left: -40px;
+	margin-top:-10px;
+}
+
+.EducationBold {
+	list-style: none;
+	margin-left: -40px;
+}
+
+.Date {
+	float:right;
+}
